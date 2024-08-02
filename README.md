@@ -1,6 +1,6 @@
 # DETAI12_22_NguyenQuocDuy_20102201_12_VuManhDat_20100391
 Main page
-
+1
 ![image](https://github.com/user-attachments/assets/06fa1fd7-aed4-4c31-9ed2-13168d9512bf)
 
 
@@ -8,7 +8,7 @@ Main page
 
 
 
-
+2
 ![image](https://github.com/user-attachments/assets/d647fa56-8d07-424d-85a5-ff67ff15e435)
 
 
@@ -16,7 +16,7 @@ Main page
 
 
 
-
+3
 ![image](https://github.com/user-attachments/assets/890cfba3-26a2-493a-9c3d-90d998cc5200)
 
 
@@ -24,7 +24,7 @@ Main page
 
 
 
-
+4
 ![image](https://github.com/user-attachments/assets/5c1decdf-0108-42f9-9d50-4fcb22880159)
 
 
@@ -32,7 +32,7 @@ Main page
 
 
 
-
+5
 ![image](https://github.com/user-attachments/assets/87aca4de-d1df-4c71-adcf-68947af17730)
 
 
